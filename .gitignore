@@ -11,5 +11,3 @@ tmp
 database/development.sqlite
 
 #imagens
-*.jpg
-!uploads/resized
